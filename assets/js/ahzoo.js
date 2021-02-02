@@ -1,0 +1,2 @@
+function changetxt(){if(document.getElementById("span").innerText=="清 梦") {document.getElementById("span").innerText="Ahzoo";document.getElementById("span2").innerText="都还没开始尝试，不要提前担心结局";$('#a-topLeft svg').children().css('fill', '#A1887F');document.getElementById("span").style.color="#A1887F";}else{document.getElementById("span").innerText="清 梦";document.getElementById("span2").innerText="醉后不知天在水，满船清梦压星河";$('#a-topLeft svg').children().css('fill', '#4299e1');document.getElementById("span").style.color="#4299e1";}
+}
